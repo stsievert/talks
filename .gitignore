@@ -1,5 +1,6 @@
 # Since keynote files are large
 *.key
+private/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
